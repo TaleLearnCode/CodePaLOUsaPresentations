@@ -1,4 +1,4 @@
-# CodePaLOUsaPresentations
+# Code PaLOUsa Presentations
 Repository for Code PaLOUsa presentation materials.
 
 ## Jinaga: End-to-End State Management for Offline-First Web Applications
