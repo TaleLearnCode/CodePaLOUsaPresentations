@@ -13,3 +13,9 @@ Repository for Code PaLOUsa presentation materials.
 - [Michael L Perry](https://twitter.com/michaellperry)
 - [Slides](./KubernetesNowWhat/Kubernetes Now What.pptx)
 - [Learn more](https://immutablearchitecture.com)
+
+## Hands-On Intro to Tekton Pipelines
+
+- [Joel Lord](https://twitter.com/joel__lord)
+- [Slides](PowerUpTekton/tekton_slides.pdf)
+- [Learn more](http://ezurl.to/powerup-tekton)
