@@ -15,6 +15,12 @@ Repository for Code PaLOUsa presentation materials.
 - [Slides](KubernetesNowWhat/Kubernetes Now What.pptx)
 - [Learn more](https://immutablearchitecture.com)
 
+## Hands-On Intro to Tekton Pipelines
+
+- [Joel Lord](https://twitter.com/joel__lord)
+- [Slides](PowerUpTekton/tekton_slides.pdf)
+- [Learn more](http://ezurl.to/powerup-tekton)
+
 ## Let's build a modern API for your frontend
 - [Bart Lannoeye](https://twitter.com/bartlannoeye) / [Glenn Versweyveld](https://twitter.com/depechie)
 - [Slides](https://github.com/TaleLearnCode/CodePaLOUsaPresentations/blob/main/ModernAPIForYourFrontend/Let%27s%20build%20a%20modern%20API%20for%20your%20frontend.pdf)
