@@ -40,3 +40,12 @@ Repository for Code PaLOUsa presentation materials.
 - [Christopher M. Judd](https://twitter.com/javajudd)
 - [Slides](https://bit.ly/eoot-codepalousa-2021)
 - [Learn More](https://opentelemetry.io/)
+
+## Don't Drop ACID: Don’t Drop ACID - Transactions in Distributed NoSQL
+- [Matt Groves](https://twitter.com/mgroves)
+- [Slides and resources](https://resources.couchbase.com/dont-drop-acid)
+- [Code](https://github.com/mgroves/dont-drop-acid)
+
+## Migrating from SQL to NoSQL with .NET and Dapper
+- [Matt Groves](https://twitter.com/mgroves)
+- [Code](https://github.com/mgroves/SqlServerToCouchbase)
