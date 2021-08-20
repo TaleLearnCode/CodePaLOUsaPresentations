@@ -13,3 +13,12 @@ Repository for Code PaLOUsa presentation materials.
 - [Michael L Perry](https://twitter.com/michaellperry)
 - [Slides](./KubernetesNowWhat/Kubernetes Now What.pptx)
 - [Learn more](https://immutablearchitecture.com)
+
+## Let's build a modern API for your frontend
+- [Bart Lannoeye](https://twitter.com/bartlannoeye) / [Glenn Versweyveld](https://twitter.com/depechie)
+- [Slides](https://github.com/TaleLearnCode/CodePaLOUsaPresentations/blob/main/ModernAPIForYourFrontend/Let%27s%20build%20a%20modern%20API%20for%20your%20frontend.pdf)
+- [Code](https://github.com/SanITy-BV)
+
+## Grow into your role of Software Architect
+- [Bart Lannoeye](https://twitter.com/bartlannoeye)
+- [Slides](https://github.com/TaleLearnCode/CodePaLOUsaPresentations/blob/main/GrowAsSoftwareArchitect/Grow%20into%20your%20role%20of%20Software%20Architect.pdf)
