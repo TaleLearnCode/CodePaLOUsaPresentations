@@ -20,3 +20,9 @@ Repository for Code PaLOUsa presentation materials.
 - [Tobias Ljungström](https://twitter.com/midvintr)
 - [Slides](WebComponents/web-components.pdf)
 - [Learn more](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
+## Enterprise Observability with OpenTelemetry
+
+- [Christopher M. Judd](https://twitter.com/javajudd)
+- [Slides](https://bit.ly/eoot-codepalousa-2021)
+- [Learn More](https://opentelemetry.io/)
