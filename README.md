@@ -49,3 +49,15 @@ Repository for Code PaLOUsa presentation materials.
 ## Migrating from SQL to NoSQL with .NET and Dapper
 - [Matt Groves](https://twitter.com/mgroves)
 - [Code](https://github.com/mgroves/SqlServerToCouchbase)
+
+## Understanding Asynchronous Programming in C# (Workshop)  
+- [Jeremy Clark](http://www.jeremybytes.com)  
+- [Slides, Code, & Resources](https://github.com/jeremybytes/async-workshop-2021)  
+
+## ASP.NET MVC for Absolute Beginners: Your Secret Decoder Ring
+- [Jeremy Clark](http://www.jeremybytes.com)
+- [Slides, Code, & Resources](https://github.com/jeremybytes/mvc-conventions-aspnet-50)  
+
+## Get Comfortable with .NET 5 and the CLI
+- [Jeremy Clark](http://www.jeremybytes.com)
+- [Slides, Code, & Resources](https://github.com/jeremybytes/dotnet50-cli)
